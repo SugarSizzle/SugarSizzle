@@ -1,16 +1,29 @@
-### Hi there 👋
 
-<!--
-**SugarSizzle/SugarSizzle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<html>
+<head>
+<style>
+    body{
+color:blue
+    }
+    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</style>
+<body>
+
+
+
+
+<strong>hello all</strong>, I will be trying to learn how to do all of <em>this</em>
+
+<p>
+Eventually I would like to make something that will look like a professional website.
+
+</p>
+
+
+</body>
+</head>
+
+</html>
+
