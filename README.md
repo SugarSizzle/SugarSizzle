@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am trying to code right now, I am not good with technology and I am trying to figure out how to use all of this stuff.  It is starting to get frustrating. 
+
 <!--
 **SugarSizzle/SugarSizzle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
